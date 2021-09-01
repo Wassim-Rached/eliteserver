@@ -24,6 +24,7 @@
     "nodemon": "^2.0.12",
     "npm-update-all": "^1.0.1",
     "path": "^0.12.7",
+    "prefix": "^1.0.0",
     "uuid": "^8.3.2"
   },
   "scripts": {
