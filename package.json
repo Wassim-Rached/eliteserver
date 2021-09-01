@@ -10,7 +10,6 @@
     "autoprefixer": "^10.3.3",
     "bcrypt": "^5.0.1",
     "browserslist": "^4.16.8",
-    "caniuse-lite": "^1.0.30001252",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
