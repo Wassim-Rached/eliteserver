@@ -11,6 +11,7 @@
     "bcrypt": "^5.0.1",
     "browserslist": "^4.16.8",
     "caniuse-lite": "^1.0.30001252",
+    "concurrently": "^6.2.1",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
@@ -38,5 +39,8 @@
   },
   "optionalDependencies": {
     "fsevents": "^2.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
   }
 }
